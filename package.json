@@ -1,0 +1,11 @@
+{
+  "name": "trie",
+  "version": "1.0.0",
+  "description": "kata alogrythme de trie",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan EGa",
+  "license": "ISC"
+}
